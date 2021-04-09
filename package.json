@@ -5,6 +5,7 @@
   "main": "script.py",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "python script.py"
   },
   "author": "Soham Sarkar",
   "license": "ISC",
